@@ -12,6 +12,7 @@
     "deploy": "gh-pages -d dist -e week13/exercise1"
   },
   "dependencies": {
+
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
