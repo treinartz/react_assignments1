@@ -10,13 +10,13 @@ export const projects=[{
   name:"Project Name2",
   description:"Project Description2",
   url:"https://example.com",
-image:"gifs/week1-variables.gif"},
+image:"gifs/week2-functions.gif"},
 {
   id: 3,
   name:"Project Name3",
   description:"Project Description",
   url:"https://example.com",
- image:"https://placehold.co/300x100/green/white"
+image:"gifs/week3-loops.gif"
 },
 {
   id: 4,
