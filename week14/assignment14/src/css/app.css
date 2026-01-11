@@ -12,6 +12,8 @@
   gap: 3.0rem;
   margin-top: 2rem;
   justify-items: center;
+   /* Prevent all cards in a row from stretching */
+  align-items: start;
 }
 
 /* ────────────── PROJECT CARD ────────────── */
